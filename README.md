@@ -4,7 +4,7 @@
 
 Для авторизации запросов к API используйте API-ключ (https://developers.google.com/books/docs/v1/using#APIKey).
 
-### [Ссылка на деплой](https://google-books-searching.netlify.app/)
+### [Ссылка на деплой](https://search-b00ks.netlify.app/)
 
 ## Функциональность
 
